@@ -59,7 +59,7 @@ public class Hello implements EntryPoint {
 
 		// Create the popup dialog box
 		final DialogBox dialogBox = new DialogBox();
-		dialogBox.setText("Remotes Procedure Call");
+		dialogBox.setText("Llamada de procedimiento remoto");
 		dialogBox.setAnimationEnabled(true);
 		final Button closeButton = new Button("Close");
 		// We can set the id of a widget by accessing its Element
